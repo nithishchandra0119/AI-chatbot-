@@ -10,3 +10,4 @@ python-dotenv
 langchain-community
 anthropic
 langchain-anthropic
+groq
