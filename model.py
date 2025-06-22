@@ -1,5 +1,5 @@
 import os
-from langchain_groq import ChatGroq
+from langchain.chat_models import ChatGroq
 from langchain.memory import ChatMessageHistory
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 import json
