@@ -6,8 +6,10 @@ python-docx
 requests
 transformers
 sentence-transformers
-python-dotenv
-langchain-community
+dotenv
+langchain_community
+langchain_huggingface
+langchain-anthropic 
 anthropic
-langchain-anthropic
-groq
+langchain_openai
+langchain_groq
