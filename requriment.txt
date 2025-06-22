@@ -6,7 +6,7 @@ python-docx
 requests
 transformers
 sentence-transformers
-python-dotenv
+dotenv
 langchain_community
 document_processor
 traceback
