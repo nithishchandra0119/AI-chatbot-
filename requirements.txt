@@ -7,13 +7,6 @@ requests
 transformers
 sentence-transformers
 python-dotenv
-langchain_community
-document_processor
-traceback
-langchain_huggingface
-langchain-anthropic 
+langchain-community
 anthropic
-langchain_openai
-langchain_groq
-ChatGroq
-LLMHandler
+langchain-anthropic
